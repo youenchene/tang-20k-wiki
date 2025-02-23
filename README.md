@@ -88,13 +88,13 @@ Appendix
 | --- | --- | --- |
 | **Tang 20K Start Adress** | **Filename** | **Description** |
 | 0X000000 |     | For core (FPGA bitstream) |
-| 0X100000 |     | Atari ST ROM |
+| 0X100000 | tos104fr.img | Atari ST ROM |
 | 0x200000 | 2dosa\_c.bin | C64 - c1541 Dolphin DOS 2 |
 | 0x20C000 | dos1541-325302-01+901229-05.bin | C64 - c1541 CBM DOS 2.6 |
 | 0x214000 | C1541.ROM | C64 - c1541 Speed DOS Plus |
 | 0x21C000 | JiffyDOS\_C1541.bin | C64 - c1541 Jiffy DOS |
-| 0X400000 | kick13.bin / kick31.bin | Amiga Kickstart 1.3 to Amiga Kickstart 3.1 (cover both adresses) |
-| 0X440000 | kick13.bin | Amiga Kickstart 1.3 |
+| 0X400000 | kick13.rom / kick31.rom | Amiga Kickstart 1.3 to Amiga Kickstart 3.1 (cover both adresses) |
+| 0X440000 | kick13.rom | Amiga Kickstart 1.3 |
 | 0x500000 | firmware.bin | Firmware BL616 internal or firmware for NES ? |
 
 Cores available
@@ -106,6 +106,7 @@ Cores available
 *   GBA : [https://github.com/nand2mario/gbatang](https://github.com/nand2mario/gbatang)
 *   Linux/Litex : [https://github.com/sipeed/TangNano-20K-example/tree/main/linux/firmware](https://github.com/sipeed/TangNano-20K-example/tree/main/linux/firmware)
 *   NES: [https://github.com/nand2mario/nestang](https://github.com/nand2mario/nestang)
+*   Pacman : [https://github.com/fjpolo/PacManTang]([https://github.com/nand2mario/nestang](https://github.com/fjpolo/PacManTang))
 *   SNES : [https://github.com/nand2mario/snestang](https://github.com/nand2mario/snestang)
 
 ### Tang Nano 20K Documentation
