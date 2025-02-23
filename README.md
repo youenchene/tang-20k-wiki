@@ -106,7 +106,7 @@ Cores available
 *   GBA : [https://github.com/nand2mario/gbatang](https://github.com/nand2mario/gbatang)
 *   Linux/Litex : [https://github.com/sipeed/TangNano-20K-example/tree/main/linux/firmware](https://github.com/sipeed/TangNano-20K-example/tree/main/linux/firmware)
 *   NES: [https://github.com/nand2mario/nestang](https://github.com/nand2mario/nestang)
-*   Pacman : [https://github.com/fjpolo/PacManTang]([https://github.com/nand2mario/nestang](https://github.com/fjpolo/PacManTang))
+*   Pacman : [https://github.com/fjpolo/PacManTang](https://github.com/nand2mario/nestang](https://github.com/fjpolo/PacManTang)
 *   SNES : [https://github.com/nand2mario/snestang](https://github.com/nand2mario/snestang)
 
 ### Tang Nano 20K Documentation
