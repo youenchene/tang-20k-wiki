@@ -9,7 +9,7 @@ Setup
 
 To flash (linux and windows, not working on MacOS) : [https://www.gowinsemi.com/en/support/download\_eda/](https://www.gowinsemi.com/en/support/download_eda/)
 
-JUst get the Programmer (Driver are also include in it for Linux and Windows). The IDE is needed only if you want to recompile.
+Just get the Programmer (Driver are also include in it for Linux and Windows). The IDE is needed only if you want to recompile.
 
 ### Step 1 - Tang Firmware upgrade BL616
 
@@ -19,7 +19,7 @@ Get `firmware.bin` from latest  : [https://github.com/nand2mario/nestang/releas
 
 Use GoWin Programmer to upload firmware in `External Flash Mode`  / `exFlash Erase, Program thru GAO-Bridge` at Start Address : `0x500000` .
 
-![](Tang Nano 20k_image.png)
+![](Tang%20Nano%2020k_image.png)
 
 ### Step 2 - M0S Firmware upgrade (USB adaptor)
 
@@ -44,11 +44,11 @@ Firmware  upgrade :
 
 To test a core use use GoWin Programmer to upload firmware in `SRAM Mode` / `SRAM Program`.
 
-![](2_Tang Nano 20k_image.png)
+![](2_Tang%20Nano%2020k_image.png)
 
 To program it and make it stay after poweroff use GoWin Programmer to upload firmware in `External Flash Mode`  / `exFlash Erase, Program thru GAO-Bridge` at Start Address : `0x000000` .
 
-![](1_Tang Nano 20k_image.png)
+![](1_Tang%20Nano%2020k_image.png)
 
 ### Step 4 - Upload ROM, Kickstart, DOS - Depends of your core
 
@@ -56,7 +56,7 @@ Use GoWin Programmer to upload in `External Flash Mode`  / `exFlash Erase, Prog
   
 Note : **If you use GoWin Programmer rename your file to a .bin.**
 
-![](3_Tang Nano 20k_image.png)
+![](3_Tang%20Nano 20k_image.png)
 
 Note for amiga :
 
