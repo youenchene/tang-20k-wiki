@@ -100,14 +100,29 @@ Appendix
 Cores available
 ---------------
 
+Util :
+*   Linux/Litex : [https://github.com/sipeed/TangNano-20K-example/tree/main/linux/firmware](https://github.com/sipeed/TangNano-20K-example/tree/main/linux/firmware)
+
+Retro-Computers :
 *   Amiga  : [https://github.com/harbaum/NanoMig](https://github.com/harbaum/NanoMig)
 *   Atari ST  :  [https://github.com/harbaum/MiSTeryNano](https://github.com/harbaum/MiSTeryNano)
 *   C64 : [https://github.com/vossstef/tang\_nano\_20k\_c64](https://github.com/vossstef/tang_nano_20k_c64)
+*   Vic 20 : [https://github.com/vossstef/tang_nano_9k_vic20_hdmi](https://github.com/vossstef/tang_nano_9k_vic20_hdmi) (compatible 20k?)
+
+Retro-Consoles :
 *   GBA : [https://github.com/nand2mario/gbatang](https://github.com/nand2mario/gbatang)
-*   Linux/Litex : [https://github.com/sipeed/TangNano-20K-example/tree/main/linux/firmware](https://github.com/sipeed/TangNano-20K-example/tree/main/linux/firmware)
+*   MegaDrive/Genesis : [https://github.com/nand2mario/mdtang](https://github.com/nand2mario/mdtang)
 *   NES: [https://github.com/nand2mario/nestang](https://github.com/nand2mario/nestang)
-*   Pacman : [https://github.com/fjpolo/PacManTang](https://github.com/fjpolo/PacManTang)
 *   SNES : [https://github.com/nand2mario/snestang](https://github.com/nand2mario/snestang)
+*   Vectrex : [https://github.com/ryomuk/tangnano20k-vectrex](https://github.com/ryomuk/tangnano20k-vectrex)
+
+Old Arcades :
+*   Galaga : [https://github.com/DECAfpga/Arcade_Galaga](https://github.com/DECAfpga/Arcade_Galaga)
+*   Pacman : [https://github.com/fjpolo/PacManTang](https://github.com/fjpolo/PacManTang)
+
+Others : 
+*   FlappyBird : [https://github.com/DECAfpga/FlappyBird](https://github.com/DECAfpga/FlappyBird)
+
 
 ### Tang Nano 20K Documentation
 
