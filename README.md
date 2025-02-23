@@ -84,9 +84,9 @@ Appendix
 
 ### Table of memory storage
 
-|     |     |     |
-| --- | --- | --- |
+
 | **Tang 20K Start Adress** | **Filename** | **Description** |
+| --- | --- | --- |
 | 0X000000 |     | For core (FPGA bitstream) |
 | 0X100000 | tos104fr.img | Atari ST ROM |
 | 0x200000 | 2dosa\_c.bin | C64 - c1541 Dolphin DOS 2 |
@@ -118,9 +118,9 @@ Cores available
 M0S - USB-C - Compatibility list
 --------------------------------
 
-|     |     |     |
-| --- | --- | --- |
+
 | **Hardware** | **Compatible** | **Type** |
+| --- | --- | --- |
 | 8BITDO NES30 GAMEPAD | **YES** | Joystick |
 | Logitech MX Vertical | **YES** | Mouse |
 | Riitech - Rii Mini Keyboard | **YES** | Mouse + Keyboard |
