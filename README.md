@@ -139,7 +139,12 @@ M0S - USB-C - Compatibility list
 | 8BITDO NES30 GAMEPAD | **YES** | Joystick |
 | Logitech MX Vertical | **YES** | Mouse |
 | Riitech - Rii Mini Keyboard | **YES** | Mouse + Keyboard |
-| Logitech G915 | **NO** | Keyboard |
+| Logitech G915 | NO | Keyboard |
+| Keychron K4A2 | **YES** | Keyboard |
+| AJAZZ Ak33RGB | **YES** | Keyboard |
+| Alienware AW568 | **YES** | Keyboard |
+| Alienware AW510K | **YES** | Keyboard |
+| Simulant Amiga USB | **YES** | Keyboard |
 
 ### Issues resolution
 
