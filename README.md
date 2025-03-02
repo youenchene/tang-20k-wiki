@@ -150,7 +150,7 @@ M0S - USB-C - Compatibility list
 | 8BITDO NES30 PRO GAMEPAD | NO | Joystick ||
 | Tank Mouse (2023) | **YES** | Mouse ||
 | Raspberry Pi 500 Mouse | NO | Mouse ||
-| Xbox Wireless Controller - Model : 1914 | NO | Mouse ||
+| Xbox Wireless Controller - Model : 1914 | NO | Joystick ||
 
 ### Issues resolution
 
