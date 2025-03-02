@@ -134,17 +134,23 @@ M0S - USB-C - Compatibility list
 --------------------------------
 
 
-| **Hardware** | **Compatible** | **Type** |
-| --- | --- | --- |
-| 8BITDO NES30 GAMEPAD | **YES** | Joystick |
-| Logitech MX Vertical | **YES** | Mouse |
-| Riitech - Rii Mini Keyboard | **YES** | Mouse + Keyboard |
-| Logitech G915 | NO | Keyboard |
-| Keychron K4A2 | **YES** | Keyboard |
-| AJAZZ Ak33RGB | **YES** | Keyboard |
-| Alienware AW568 | **YES** | Keyboard |
-| Alienware AW510K | **YES** | Keyboard |
-| Simulant Amiga USB | **YES** | Keyboard |
+| **Hardware** | **Compatible** | **Type** | **Comment** |
+| --- | --- | --- | --- |
+| 8BITDO NES30 GAMEPAD | **YES** | Joystick ||
+| Logitech MX Vertical | **YES** | Mouse ||
+| Riitech - Rii Mini Keyboard | **YES** | Mouse + Keyboard ||
+| Logitech G915 | NO | Keyboard ||
+| Keychron K4A2 | **YES** | Keyboard ||
+| AJAZZ Ak33RGB | **YES** | Keyboard ||
+| Alienware AW568 | **YES** | Keyboard ||
+| Alienware AW510K | **YES** | Keyboard ||
+| Simulant Amiga USB | **YES** | Keyboard ||
+| TheA500 Mini Mouse | **YES** | Mouse ||
+| TheA500 Mini Gamepad | **YES** | Joystick | (Y-yellow is button 1) |
+| 8BITDO NES30 PRO GAMEPAD | NO | Joystick ||
+| Tank Mouse (2023) | **YES** | Mouse ||
+| Raspberry Pi 500 Mouse | NO | Mouse ||
+| Xbox Wireless Controller - Model : 1914 | NO | Mouse ||
 
 ### Issues resolution
 
